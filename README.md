@@ -1,4 +1,4 @@
-# Anavrin Store : Spring Boot + Angular-14 + MySQL
+ Spring Boot + Angular-14 + MySQL
 An ecommerce website built using Spring Boot as backend and Angular as frontend and MySQL DB as data source.
 
 - Spring Boot project was generated with [Spring Initializr](https://start.spring.io/) version 2.7.4.
@@ -55,27 +55,7 @@ For Angular Project :
 - Star my Github repo ⭐
 - Create pull requests, submit bugs, suggest new features or documentation updates 🛠
 
-## Screenshots:
 
-### Home Page:
-
-![Home Page](https://github.com/aman4411/multicart/blob/master/Screenshots/home.png "Home Page")
-
-### Signup Page:
-
-![Signup Page](https://github.com/aman4411/multicart/blob/master/Screenshots/signup.png "Signup Page")
-
-### Login Page:
-
-![Login Page](https://github.com/aman4411/multicart/blob/master/Screenshots/login.png "Login Page")
-
-### Cart Page:
-
-![Cart Page](https://github.com/aman4411/multicart/blob/master/Screenshots/cart.png "Cart Page")
-
-### Orders Page:
-
-![Orders Page](https://github.com/aman4411/multicart/blob/master/Screenshots/orders.png "Orders Page")
 
 ## Development server
 
